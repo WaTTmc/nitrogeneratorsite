@@ -1,0 +1,200 @@
+.u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1619px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 4.5rem;
+  margin: 123px 0 0 235px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 354px;
+  height: 703px;
+  margin: -7px auto 0 -47px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 177px;
+  height: 177px;
+  margin: -593px 377px 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  margin: -222px 24px 0 211px;
+}
+
+.u-section-1 .u-image-3 {
+  width: 225px;
+  height: 118px;
+  margin: 882px auto 0 138px;
+}
+
+.u-section-1 .u-image-4 {
+  width: 327px;
+  height: 118px;
+  margin: -131px 385px 0 auto;
+}
+
+.u-section-1 .u-image-5 {
+  width: 224px;
+  height: 129px;
+  margin: -118px 103px 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 131px;
+    margin-right: -163px;
+    margin-left: 199px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -72px;
+    margin-left: -39px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -401px;
+    margin-right: 228px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-right: -136px;
+    margin-left: 171px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: 533px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-top: 28px;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-image-5 {
+    margin-top: -292px;
+    margin-right: 60px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 352px;
+    margin-left: 168px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -973px;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -218px;
+    margin-right: -24px;
+    margin-left: 25px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: 1101px;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-top: 0;
+    margin-right: 172px;
+  }
+
+  .u-section-1 .u-image-5 {
+    margin-top: -275px;
+    margin-right: 13px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    font-size: 3.4375rem;
+    margin-top: 48px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 378px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 141px;
+    height: 141px;
+    margin-top: -979px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -182px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: 1062px;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-top: 23px;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-image-5 {
+    margin-top: -288px;
+    margin-right: -15px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    margin-top: 71px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 141px;
+    margin-right: -14px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -275px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -697px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: 1176px;
+    margin-left: 44px;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-top: -270px;
+    margin-left: -14px;
+  }
+
+  .u-section-1 .u-image-5 {
+    margin-top: -260px;
+    margin-right: auto;
+    margin-left: 44px;
+  }
+}
